@@ -21,8 +21,6 @@ Admin
 - Data Order (Lihat Detil, Hapus)
 - Data WhatsApp (Edit No WA, Edit Pesan)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 
 ## License
 
